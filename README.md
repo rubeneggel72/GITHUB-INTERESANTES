@@ -17,6 +17,10 @@ https://github.com/bhaumikpatel/E-Commerce-Template  buen template ecommerce
 
 https://github.com/AdityaKumawat97/MERN-BUS-APP  venta pasajes bus con pago Front y Back
 
+https://github.com/admirhodzic/FathGrid react veu planillas
+
+https://github.com/jbetancur/react-data-table-component   vasrios formatos de planillas react
+
 
 
 
